@@ -1,5 +1,4 @@
 <chart>
-id=133607552291455233
 symbol=EURUSD
 period=15
 leftpos=1841
@@ -17,7 +16,7 @@ one_click_btn=1
 askline=1
 days=0
 descriptions=0
-shift_size=9.174312
+shift_size=10
 fixed_pos=0
 window_left=0
 window_top=0
