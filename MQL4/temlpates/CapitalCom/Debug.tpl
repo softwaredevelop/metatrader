@@ -1,5 +1,4 @@
 <chart>
-id=133611847266071666
 symbol=EURUSD
 period=15
 leftpos=1815
