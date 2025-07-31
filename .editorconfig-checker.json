@@ -2,9 +2,9 @@
   "Verbose": true,
   "Debug": true,
   "IgnoreDefaults": false,
-  "SpacesAftertabs": false,
+  "SpacesAfterTabs": false,
   "NoColor": false,
-  "Exclude": [".ecrc","\\.ex5"],
+  "Exclude": ["\\.ex5"],
   "AllowedContentTypes": [],
   "PassedFiles": [],
   "Disable": {
