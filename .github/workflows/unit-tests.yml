@@ -32,7 +32,7 @@ jobs:
     if: ${{ github.event_name == 'pull_request' || endsWith(github.event.head_commit.modified, '_test.go') }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
